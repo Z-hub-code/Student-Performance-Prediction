@@ -36,8 +36,6 @@ Predicts students’ final grades using **ML models** based on demographics, stu
 1. Open notebook in [Google Colab](https://colab.research.google.com/)  
 2. Install libraries if missing:  
 ```bash
-!pip install pandas numpy scikit-learn matplotlib seaborn
-Author
 
 Noor Zainab Ali
 Master's Student | Data Science & ML | Exploring AI & Graph Neural Networks
