@@ -32,7 +32,9 @@ Predicts students’ final grades using **ML models** based on demographics, stu
 
 ## Project Structure
 ├── Student_Performance_Prediction.ipynb # Colab notebook
+
 ├── README.md # This file
+
 └── requirements.txt # Required Python libraries
 
 ## How to Run
